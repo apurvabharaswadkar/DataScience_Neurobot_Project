@@ -1,0 +1,1 @@
+xs,rt,lt,tsection_front,tsection_right,tsection_left,hallway,noexit
